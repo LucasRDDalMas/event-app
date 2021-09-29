@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">EventApplication</string>
+    <string name="event_price">R$ %s</string>
+    <string name="event_detail_price">Valor do Evento: R$ %s</string>
+    <string name="event_date">Data: %s</string>
+    <string name="event_price_free">Grátis</string>
+    <string name="user_name">user_name</string>
+    <string name="user_email">user_email</string>
+    <string name="user">user</string>
+    <string name="invalid_login">Todos os campos devem ser informados!</string>
+    <string name="list_title">Title</string>
+    <string name="list_date">20/10/2021 10:00</string>
+    <string name="list_price">R$ 20.00</string>
+    <string name="login_who">Identifique-se</string>
+    <string name="login_email">E-mail</string>
+    <string name="login_name">Nome</string>
+    <string name="login_confirm_btn">Esse sou eu</string>
+    <string name="event_logo">Logo do Evento</string>
+    <string name="login_invalid_name">Nome Inválido</string>
+    <string name="login_invalid_email">E-mail Inválido</string>
+    <string name="even_detail_error">Ocorreu um erro ao buscar o evento, tente novamente em alguns instantes!</string>
+    <string name="btn_check_in">Check-In</string>
+    <string name="event_check_in_success">Checkin Realizado com sucesso!</string>
+    <string name="event_dialog_question">Você deseja realizar o checkin neste evento?</string>
+    <string name="event_dialog_yes">Sim</string>
+    <string name="event_dialog_cancel">Cancelar</string>
+</resources>
